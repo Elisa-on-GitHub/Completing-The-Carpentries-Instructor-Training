@@ -1,4 +1,4 @@
-This file shows the changes in the shell-lesson-data folder for each episode of the [Shell Novice lesson](https://swcarpentry.github.io/shell-novice/) in the Software Carpentries.
+This file shows the changes in the shell-lesson-data folder for each episode of the [Shell Novice lesson](https://swcarpentry.github.io/shell-novice/) in the [Software Carpentries](https://software-carpentry.org/).
 You can use this file if you are preparing to teach the lesson or to teach the demo lesson as part of your certification process
 
 |Episode | Change in folder/file |
